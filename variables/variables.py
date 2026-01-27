@@ -12,7 +12,7 @@ nombreCompletoTuTioMaster = "Luca Dalto"
 nombre_completo_tu_tio_master = "Luca Dalto"
 
 #concatenar con +
-bienvenida = f"Hola"+ " como estas?"
+bienvenida = "Hola"+ " como estas?"
 
 #concatenar con f-string
 bienvenida = f"Hola {nombre} como estas?"
